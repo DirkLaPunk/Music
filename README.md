@@ -4,5 +4,5 @@ Musical instruments and gear for sale
 If interested in anything here please email me at abc@xyz.com
 
 
-Test Image \n
-![alt text](/wilde.gif)
+
+![alt text](/small guitar test 1.jpg)
